@@ -1,4 +1,4 @@
-# data-science-lab
+# data-analysis-lab
 
 Uvod u analizu podataka: Pandas i Matplotlib
 
